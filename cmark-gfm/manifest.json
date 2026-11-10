@@ -1,0 +1,11 @@
+{
+    "name": "cmark-gfm",
+    "id": 31161,
+    "commands": [
+        {
+            "theme": "cmark-gfm",
+            "syntax": "CMark GFM Convert(&T;&J):J",
+            "threadSafe": true
+        }
+    ]
+}

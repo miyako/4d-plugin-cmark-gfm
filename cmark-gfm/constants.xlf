@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<xliff version="1.0" xmlns:d4="http://www.4d.com/d4-ns">
+<header>
+    <note>cmark-gfm</note>
+</header>
+<group resname="themes">
+    <trans-unit id="cmark_gfm" resname="cmark_gfm" translate="no">
+        <source>cmark-gfm</source>
+    </trans-unit>
+</group>
+<group restype="x-4DK#" d4:groupName="cmark_gfm">
+    <trans-unit d4:value="html:S" id="cmark_gfm_1">
+        <source>CMark GFM format HTML</source>
+    </trans-unit>
+    <trans-unit d4:value="xml:S" id="cmark_gfm_2">
+        <source>CMark GFM format XML</source>
+    </trans-unit>
+    <trans-unit d4:value="commonmark:S" id="cmark_gfm_3">
+        <source>CMark GFM format CommonMark</source>
+    </trans-unit>
+    <trans-unit d4:value="man:S" id="cmark_gfm_4">
+        <source>CMark GFM format man</source>
+    </trans-unit>
+    <trans-unit d4:value="latex:S" id="cmark_gfm_5">
+        <source>CMark GFM format LaTeX</source>
+    </trans-unit>
+    <trans-unit d4:value="plaintext:S" id="cmark_gfm_6">
+        <source>CMark GFM format plain text</source>
+    </trans-unit>
+</group>
+</xliff>

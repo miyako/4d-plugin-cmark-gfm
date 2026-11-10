@@ -1,0 +1,13 @@
+{
+	"Tests": {
+		"methods": [
+			"test_all",
+			"test_convert",
+			"test_extensions",
+			"test_options",
+			"test_formats",
+			"test_errors"
+		]
+	},
+	"trash": {}
+}

@@ -1,0 +1,24 @@
+# cmark-gfm
+/cmark-gfm/cmark-gfm-test/Data/
+/cmark-gfm/cmark-gfm-test/Project/DerivedData/
+/cmark-gfm/cmark-gfm-test/userPreferences.*/
+/cmark-gfm/cmark-gfm-test/Logs/
+/cmark-gfm/cmake-build/
+**/xcuserdata/
+.DS_Store
+
+# BEGIN 4D PLUGIN PIPELINE (managed)
+/cmark-gfm/build/
+/cmark-gfm/cmark-gfm-test/Plugins/
+/.local-tools/
+/.package-inputs/
+/.package-validation/
+/.release-package/
+/.signed-distribution/
+/.signed-extracted/
+/.publish-extracted/
+/.draft-upload-check/
+/.draft-extracted/
+/.release-notes
+__pycache__/
+# END 4D PLUGIN PIPELINE (managed)

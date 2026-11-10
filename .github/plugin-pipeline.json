@@ -1,0 +1,36 @@
+{
+  "build_dir": "cmark-gfm/build",
+  "bundle_identifier": "com.4d.cmark-gfm",
+  "dependencies": {
+    "allowed_licenses": [
+      "BSD-2-Clause",
+      "MIT"
+    ],
+    "components": {
+      "cmark-gfm": {
+        "license": "BSD-2-Clause AND MIT",
+        "notice": "cmark-gfm.txt",
+        "platforms": [
+          "macos",
+          "windows"
+        ]
+      }
+    },
+    "copyleft_acknowledged": [],
+    "notices_dir": "THIRD-PARTY-NOTICES",
+    "profile": "static",
+    "windows": "none"
+  },
+  "macos_deployment_target": "11.0",
+  "native_tests": false,
+  "product": "cmark-gfm",
+  "profile": "macos-universal-windows-x64",
+  "release_branch": "main",
+  "schema": 1,
+  "sdk_dir": "4D-Plugin-SDK",
+  "signing_environment": "release-signing",
+  "signing_policy": "developer-id",
+  "source_dir": "cmark-gfm",
+  "startup_method": "test_all",
+  "test_project": "cmark-gfm/cmark-gfm-test/Project/cmark-gfm.4DProject"
+}
